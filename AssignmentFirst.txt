@@ -2,4 +2,5 @@ This is the first Assignment for Git Feb 2024
 
 // Enter your Name and Where do you Live?
 
+My Name is Navjot and I live in Texas.
 My Name is Akshay and I live in Greenville, South Carolina.
