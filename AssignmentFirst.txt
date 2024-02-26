@@ -1,0 +1,5 @@
+This is the first Assignment for Git Feb 2024
+
+// Enter your Name and Where do you Live?
+
+My Name is Navjot and I live in Texas.
